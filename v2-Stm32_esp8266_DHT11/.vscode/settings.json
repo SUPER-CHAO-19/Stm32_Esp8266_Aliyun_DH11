@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "delay.h": "c",
+        "dht11.h": "c",
+        "utility": "c"
+    }
+}
